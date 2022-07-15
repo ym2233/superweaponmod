@@ -1,2 +1,1 @@
-# superweaponmod
-no
+by mcreator
